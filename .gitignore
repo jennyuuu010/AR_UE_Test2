@@ -48,6 +48,10 @@ SourceArt/**/*.tga
 # Binary Files
 Binaries/*
 Plugins/*/Binaries/*
+AR_UE_Test2/Binaries/*
+AR_UE_Test2/Intermediate/*
+AR_UE_Test2/Saved/*
+YSnakeProject.sln
 
 # Builds
 Build/*
